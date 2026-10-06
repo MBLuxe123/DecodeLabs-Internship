@@ -14,6 +14,7 @@ The objective of this project was to apply fundamental **Exploratory Data Analys
 The dataset contains:
 - **1,200 records**
 - **14 variables**
+
 The variables include:
 - OrderID
 - Date
