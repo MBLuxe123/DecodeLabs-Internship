@@ -49,11 +49,13 @@ The following analyses were performed using Microsoft Excel:
 The analysis showed:
 - **Mean TotalPrice:** 1,053.968
 - **Median TotalPrice:** 823.615
+
 The mean TotalPrice is higher than median, indicating that the distribution is influenced by relatively higher-value transactions.
 
 ### 2. Product Distribution
 The product with the highest number of orders was:
 - **Printer - 181 orders**
+
 The product with the lowest number of orders was:
 - **Phone - 156 orders**
 
