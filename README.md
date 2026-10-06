@@ -25,7 +25,7 @@ The variables include:
 - UnitPrice
 - ShippingAddress
 - PaymentMethod
-- OrderStaus
+- OrderStatus
 - TrackingNumber
 - ItemsInCart
 - CouponCode
@@ -101,7 +101,7 @@ The TotalPrice distribution was analyzed using the following ranges:
 | 0-500 | 383 |
 | 500 -1,000 | 305 |
 | 1,000 - 1,500 | 190 |
-| 1.500 - 2,000 | 142 |
+| 1,500 - 2,000 | 142 |
 | 2,000 - 2,500 | 86 |
 | 2,500 - 3,000 | 60 |
 |Above 3,000 | 34 |
