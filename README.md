@@ -1,179 +1,164 @@
-# E-Commerce Sales Exploratory Data Analysis
+# DecodeLabs Data Analytics Internship
 
-## Project Overview
-This project was completed as part of my **DecodeLabs Data Analytics Internship - Project 2**.
+Welcome to my **DecodeLabs Data Analytics Internship** project repository.
 
-The project focuses on performing **Exploratory Data Analysis (EDA)** on an e-commerce sales dataset using Microsoft Excel.
+This repository contains projects completed as part of my internship in the **Data Analytics** domain. The projects demonstrate my practical experience in data cleaning, data validation, exploratory data analysis, SQL analysis, data visualization, and analytical interpretation.
 
-The purpose of the analysis is to explore the dataset, identify patterns and trends, understand order patterns, examine product and payment distributions, analyze order statuses, and identify unusual values within the TotalPrice variable.
+The repository will be updated as I progress through the internship and complete additional projects.
 
-## Project Objective
-The objective of this project was to apply fundamental **Exploratory Data Analysis techniques** to an e-commerce dataset and communicate the findings using tables, charts, descriptive statistics, and analytical observations.
+---
 
-## Dataset Overview
-The dataset contains:
-- **1,200 records**
-- **14 variables**
+## About the Internship
 
-The variables include:
-- OrderID
-- Date
-- CustomerID
-- Product
-- Quantity
-- UnitPrice
-- ShippingAddress
-- PaymentMethod
-- OrderStatus
-- TrackingNumber
-- ItemsInCart
-- CouponCode
-- ReferralSource
-- TotalPrice
+The DecodeLabs Data Analytics Internship provides practical, project-based experience designed to strengthen technical, analytical, and problem-solving skills through real-world data tasks.
 
-## Exploratory Data Analysis Performed
-The following analyses were performed using Microsoft Excel:
-1. Dataset Overview
-2. Descriptive statistics for TotalPrice
-3. Product order distribution
-4. Yearly order volume analysis
-5. Payment method analysis
-6. Order status analysis
-7. TotalPrice distribution
-8. Outlier detection using INTERQUARTILE RANGE (IQR) method
-9. Data visualizations
-10. Key observations and final summary
+Throughout the internship, I am applying data analytics concepts to practical datasets while documenting my methodology, findings, and results.
 
-## Key Findings
-### 1. TotalPrice Statistics
-The analysis showed:
-- **Mean TotalPrice:** 1,053.968
-- **Median TotalPrice:** 823.615
+---
 
-The mean TotalPrice is higher than median, indicating that the distribution is influenced by relatively higher-value transactions.
+## Projects
 
-### 2. Product Distribution
-The product with the highest number of orders was:
-- **Printer - 181 orders**
+### Project 1 — E-Commerce Data Cleaning & Validation
 
-The product with the lowest number of orders was:
-- **Phone - 156 orders**
+This project focused on preparing an e-commerce dataset for analysis through systematic data cleaning and validation.
 
-### 3. Yearly Order Volume
-Order volume by year was:
-| Year | Number of Orders |
-| --- | ---: |
-| 2023 | 510 |
-| 2024 | 459 |
-| 2025 | 231 |
+**Key areas covered:**
 
-The analysis shows a decline in order volume across the three years, with the large decrease occurring between 2024 and 2025.
+- Missing-value identification and handling
+- Duplicate checks
+- Data consistency validation
+- Numerical data validation
+- Text and formatting checks
+- Total Price validation
+- Data quality documentation
 
-### 4. Payment Method
-The payment methods were distributed as follows:
-| Payment Method | Number of Orders |
-|---|---:|
-| Online| 258 |
-| Cash | 246 |
-| Credit Card | 234 |
-| Debit Card | 232 |
-| Gift Card | 230 |
+**Tool:** Microsoft Excel
 
-Online payment was the most frequently used payment method in the dataset.
+📂 **[View Project 1](./Project%201/)**
 
-### 5. Order Status
-The distribution of order statuses was:
-| Order Status | Number of Orders |
-|---|---:|
-| Cancelled | 250 |
-| Returned | 247 |
-| Pending | 237 |
-| Shipped | 235 |
-| Delivered | 231 |
+---
 
-Cancelled orders had the highest frequency among the order statuses analyzed.
+### Project 2 — E-Commerce Sales Exploratory Data Analysis
 
-### 6. TotalPrice Distribution
-The TotalPrice distribution was analyzed using the following ranges:
-| TotalPrice Range | Number of Orders |
-|---|---:|
-| 0-500 | 383 |
-| 501 -1,000 | 305 |
-| 1,001 - 1,500 | 190 |
-| 1,501 - 2,000 | 142 |
-| 2,001 - 2,500 | 86 |
-| 2,501 - 3,000 | 60 |
-|Above 3,000 | 34 |
+This project focused on performing Exploratory Data Analysis (EDA) on an e-commerce sales dataset using Microsoft Excel.
 
-The analysis shows that most orders were concentrated within the lower TotalPrice ranges.
+**Key areas covered:**
 
-### 7. Outlier Analysis
-The **Interquartile Range (IQR)** method was used to identify unusual TotalPrice values.
-
-The analysis identified:
-
-- **Upper outlier boundary:** approximately 3,330.41
-- **Number of identified outliers:** 8
-
-These observations were classified as unusual high-value transactions. They were not automatically treated as errors because an outlier does not necessarily indicate incorrect data.
-
-## Key Observations
-The analysis revealed several important patterns:
-
-- The mean TotalPrice was higher than the median, suggesting that higher-value transactions influenced the overall average.
-- Printer recorded the highest number of orders, while Phone recorded the lowest.
-- Order volume declined from 2023 through 2025.
-- Online payment was the most frequently used payment method.
-- Cancelled orders had the highest frequency among the order statuses.
-- Most orders were concentrated within the lower TotalPrice ranges.
-- A small number of unusually high TotalPrice values were identified using the IQR method.
-
-## Tools and Techniques Used
-### Tools
-- Microsoft Excel
-
-### Techniques
-- Data exploration
 - Descriptive statistics
-- COUNTIFS and COUNTIF functions
-- Mean and median analysis
-- Categorical frequency analysis
-- Trend analysis
+- Product order distribution
+- Yearly order-volume analysis
+- Payment-method analysis
+- Order-status analysis
+- TotalPrice distribution
+- IQR-based outlier detection
 - Data visualization
-- Interquartile Range (IQR) outlier detection
 - Analytical interpretation
 
-## Project File
-The main project file is:
-**DecodeLabs Project 2.xlsx**
+**Tool:** Microsoft Excel
 
-The workbook contains:
-### Sales Dataset
-The original dataset and the outlier classification.
+📂 **[View Project 2](./Project%202/)**
 
-### Analysis Report
-The completed exploratory analysis, calculations, charts, observations, and final summary.
+---
 
-## How to Run / Review the Project
+### Project 3 — SQL Sales Analysis
 
-This project was completed using Microsoft Excel.
+**Status:** In Progress
 
-No programming environment or additional software packages are required.
+This project focuses on analyzing e-commerce sales data using SQL and answering business-oriented questions through structured queries.
 
-To review the project:
+**Planned areas include:**
 
-1. Download or clone this repository.
-2. Open `DecodeLabs Project 2.xlsx` using Microsoft Excel.
-3. Open the **Sales Dataset** sheet to view the dataset and outlier classification.
-4. Open the **Analysis Report** sheet to review the EDA calculations, charts, findings, and conclusions.
+- Total orders
+- Unique customers
+- Revenue
+- Average order value
+- Product performance
+- Payment-method performance
+- Referral analysis
+- Customer ranking
+- Monthly trends
+- Coupon effectiveness
+- Delivered versus returned orders
 
-## Internship
+**Tool:** SQL
 
-**DecodeLabs - Data Analytics Internship**
+📂 **[View Project 3](./Project%203/)**
 
-**Project 2 - Exploratory Data Analysis**
+---
 
-**Domain:** Data Analytics
+## Tools & Skills
+
+The projects in this repository involve the following tools and analytical skills:
+
+- Microsoft Excel
+- SQL
+- Data Cleaning
+- Data Validation
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Data Visualization
+- Outlier Detection
+- Data Quality Assessment
+- Analytical Interpretation
+- Business-oriented Data Analysis
+
+Additional tools and technologies will be added as the internship progresses.
+
+---
+
+## Repository Structure
+
+DecodeLabs-Internship/
+│
+├── Project 1/
+│   ├── DecodeLabs Project 1.xlsx
+│   └── README.md
+│
+├── Project 2/
+│   ├── DecodeLabs Project 2.xlsx
+│   └── README.md
+│
+├── Project 3/
+│   └── README.md
+│
+└── README.md
+
+Each project folder contains its own project files and dedicated documentation.
+
+## How to Run / Review the Projects
+
+The projects in this repository use different tools depending on the project.
+
+To review a project:
+
+1. Open the relevant project folder.
+2. Read the project's README.md for an overview, objectives, methodology, and review instructions.
+3. Open the project file using the appropriate software.
+4. Review the analysis, calculations, visualizations, SQL queries, findings, and conclusions where applicable.
+
+### Project 1
+
+Project 1 was completed using Microsoft Excel.
+
+Open DecodeLabs Project 1.xlsx and review:
+
+- The Dataset sheet
+- The Data Cleaning Log sheet
+
+### Project 2
+
+Project 2 was completed using Microsoft Excel.
+
+Open DecodeLabs Project 2.xlsx and review:
+
+- The Sales Dataset sheet
+- The Analysis Report sheet
+
+### Project 3
+
+Project 3 will be completed using SQL.
+
+Once completed, the Project 3 folder will contain the SQL scripts and supporting files required to review and run the analysis.
 
 ## Author
 
@@ -183,8 +168,8 @@ Data Analytics Intern | Data Analyst
 
 GitHub: https://github.com/MBLuxe123
 
-## Repository
+## Internship
 
-More projects from my DecodeLabs Data Analytics Internship are available in this repository:
+**DecodeLabs — Data Analytics Internship**
 
-https://github.com/MBLuxe123/DecodeLabs-Internship
+**Domain:** Data Analytics
