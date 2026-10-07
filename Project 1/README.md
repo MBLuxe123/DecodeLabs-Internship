@@ -1,6 +1,7 @@
 # DecodeLabs Data Analytics Internship
 
 ## E-Commerce Dataset Cleaning & Data Quality Validation
+
 This project was completed as part of my DecodeLabs Data Analytics Internship.
 
 The objective of this project was to review, clean, validate, and document an e-commerce dataset using Microsoft Excel. The cleaning process focused on data completeness, consistency, accuracy, duplicate checks, numerical validation, text validation, and standardization of missing values.
@@ -155,7 +156,7 @@ GitHub: https://github.com/MBLuxe123
 
 **DecodeLabs - Data Analytics Internship**
 
-**Project 1 - Data Cleaning**
+**Project 1 - Data Cleaning & Data Quality Validation**
 
 ## Repository
 
