@@ -140,6 +140,19 @@ This project strengthened my understanding of practical data cleaning, data qual
 
 The workbook contains both the cleaned dataset and the complete data cleaning log.
 
+## How to Run / Review the Project
+
+This project was completed using Microsoft Excel.
+
+No programming environment or additional software packages are required.
+
+To review the project:
+
+1. Download or clone this repository.
+2. Open `DecodeLabs Project 1.xlsx` using Microsoft Excel.
+3. Open the `Dataset` sheet to review the cleaned and validated e-commerce dataset.
+4. Open the `Data Cleaning Log` sheet to review the cleaning activities, validation checks, findings, and results.
+
 ## Internship
 
 **DecodeLabs Data Analytics Internship**
