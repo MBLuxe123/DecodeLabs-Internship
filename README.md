@@ -108,20 +108,24 @@ Additional tools and technologies will be added as the internship progresses.
 
 ## Repository Structure
 
-DecodeLabs-Internship/
-│
-├── Project 1/
-│   ├── DecodeLabs Project 1.xlsx
-│   └── README.md
-│
-├── Project 2/
-│   ├── DecodeLabs Project 2.xlsx
-│   └── README.md
-│
-├── Project 3/
-│   └── README.md
-│
-└── README.md
+The repository is organized into separate folders for each internship project:
+
+    DecodeLabs-Internship/
+    │
+    ├── Project 1/
+    │   ├── DecodeLabs Project 1.xlsx
+    │   └── README.md
+    │
+    ├── Project 2/
+    │   ├── DecodeLabs Project 2.xlsx
+    │   └── README.md
+    │
+    ├── Project 3/
+    │   └── README.md
+    │
+    └── README.md
+
+Each project folder contains its own project files and dedicated documentation.
 
 Each project folder contains its own project files and dedicated documentation.
 
