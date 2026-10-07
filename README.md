@@ -1,4 +1,3 @@
-[DecodeLabs Project 2.xlsx](https://github.com/user-attachments/files/33131250/DecodeLabs.Project.2.xlsx)
 # E-Commerce Sales Exploratory Data Analysis
 
 ## Project Overview
