@@ -98,7 +98,7 @@ Additional tools and technologies will be added as the internship progresses.
 
 The repository is organized into separate folders for each internship project:
 
-    DecodeLabs-Internship/
+DecodeLabs-Internship/
 │
 ├── Project 1/
 │   ├── DecodeLabs Project 1.xlsx
