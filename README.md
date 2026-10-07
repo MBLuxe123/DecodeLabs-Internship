@@ -98,11 +98,11 @@ The TotalPrice distribution was analyzed using the following ranges:
 | TotalPrice Range | Number of Orders |
 |---|---:|
 | 0-500 | 383 |
-| 500 -1,000 | 305 |
-| 1,000 - 1,500 | 190 |
-| 1,500 - 2,000 | 142 |
-| 2,000 - 2,500 | 86 |
-| 2,500 - 3,000 | 60 |
+| 501 -1,000 | 305 |
+| 1,001 - 1,500 | 190 |
+| 1,501 - 2,000 | 142 |
+| 2,001 - 2,500 | 86 |
+| 2,501 - 3,000 | 60 |
 |Above 3,000 | 34 |
 
 The analysis shows that most orders were concentrated within the lower TotalPrice ranges.
