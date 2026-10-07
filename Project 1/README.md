@@ -153,6 +153,10 @@ Data Analytics Intern | Data Analyst
 
 GitHub: https://github.com/MBLuxe123
 
+**DecodeLabs - Data Analytics Internship**
+
+**Project 1 - Data Cleaning**
+
 ## Repository
 
 More projects from my DecodeLabs Data Analytics Internship are available in this repository:
