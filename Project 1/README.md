@@ -144,6 +144,8 @@ The workbook contains both the cleaned dataset and the complete data cleaning lo
 
 **DecodeLabs Data Analytics Internship**
 
+**Project 1 - Data Cleaning & Data Quality Validation**
+
 **Domain:** Data Analytics
 
 ## Author
@@ -153,10 +155,6 @@ The workbook contains both the cleaned dataset and the complete data cleaning lo
 Data Analytics Intern | Data Analyst
 
 GitHub: https://github.com/MBLuxe123
-
-**DecodeLabs - Data Analytics Internship**
-
-**Project 1 - Data Cleaning & Data Quality Validation**
 
 ## Repository
 
