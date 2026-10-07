@@ -127,8 +127,6 @@ The repository is organized into separate folders for each internship project:
 
 Each project folder contains its own project files and dedicated documentation.
 
-Each project folder contains its own project files and dedicated documentation.
-
 ## How to Run / Review the Projects
 
 The projects in this repository use different tools depending on the project.
