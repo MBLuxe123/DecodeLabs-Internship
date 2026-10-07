@@ -167,16 +167,24 @@ To review the project:
 3. Open the **Sales Dataset** sheet to view the dataset and outlier classification.
 4. Open the **Analysis Report** sheet to review the EDA calculations, charts, findings, and conclusions.
 
-## Author
-
-**Mbuotidem John Otu**
-
-Data Analytics Intern | Data Analyst | Digital Creator
-
-Github: https://github.com/MBLuxe123
-
 ## Internship
 
 **DecodeLabs - Data Analytics Internship**
 
 **Project 2 - Exploratory Data Analysis**
+
+**Domain:** Data Analytics
+
+## Author
+
+**Mbuotidem John Otu**
+
+Data Analytics Intern | Data Analyst
+
+GitHub: https://github.com/MBLuxe123
+
+## Repository
+
+More projects from my DecodeLabs Data Analytics Internship are available in this repository:
+
+https://github.com/MBLuxe123/DecodeLabs-Internship
