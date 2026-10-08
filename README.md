@@ -98,57 +98,22 @@ Additional tools and technologies will be added as the internship progresses.
 
 The repository is organized into separate folders for each internship project:
 
-DecodeLabs-Internship/
-│
-├── Project 1/
-│   ├── DecodeLabs Project 1.xlsx
-│   └── README.md
-│
-├── Project 2/
-│   ├── DecodeLabs Project 2.xlsx
-│   └── README.md
-│
-├── Project 3/
-│   └── README.md
-│
-└── README.md
+    DecodeLabs-Internship/
+    │
+    ├── Project 1/
+    │   ├── DecodeLabs Project 1.xlsx
+    │   └── README.md
+    │
+    ├── Project 2/
+    │   ├── DecodeLabs Project 2.xlsx
+    │   └── README.md
+    │
+    ├── Project 3/
+    │   └── README.md
+    │
+    └── README.md
 
 Each project folder contains its own project files and dedicated documentation.
-
-## How to Run / Review the Projects
-
-The projects in this repository use different tools depending on the project.
-
-To review a project:
-
-1. Open the relevant project folder.
-2. Read the project's README.md for an overview, objectives, methodology, and review instructions.
-3. Open the project file using the appropriate software.
-4. Review the analysis, calculations, visualizations, SQL queries, findings, and conclusions where applicable.
-
-### Project 1
-
-Project 1 was completed using Microsoft Excel.
-
-Open DecodeLabs Project 1.xlsx and review:
-
-- The Dataset sheet
-- The Data Cleaning Log sheet
-
-### Project 2
-
-Project 2 was completed using Microsoft Excel.
-
-Open DecodeLabs Project 2.xlsx and review:
-
-- The Sales Dataset sheet
-- The Analysis Report sheet
-
-### Project 3
-
-Project 3 will be completed using SQL.
-
-Once completed, the Project 3 folder will contain the SQL scripts and supporting files required to review and run the analysis.
 
 ## Author
 
