@@ -119,6 +119,7 @@ The projects demonstrate a progressive data analytics workflow:
 
 ## Repository Structure
 
+##text‘’‘
 DecodeLabs-Internship/
 │
 ├── Project 1/
@@ -166,5 +167,11 @@ GitHub: https://github.com/MBLuxe123
 **Programme:** DecodeLabs Data Analytics Internship
 
 **Domain:** Data Analytics
+
+## Repository
+
+More projects from my DecodeLabs Data Analytics Internship are available in this repository:
+
+https://github.com/MBLuxe123/DecodeLabs-Internship
 
 Thank you for visiting my portfolio. This repository documents my practical development in data preparation, exploratory analysis, SQL, visualization, and evidence-based interpretation.
