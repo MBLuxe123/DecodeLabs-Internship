@@ -153,3 +153,26 @@ DecodeLabs-Internship/
 │   └── README.md
 │
 └── README.md
+```
+
+# Author
+
+**Mbuotidem John Otu**
+
+Data Analytics Intern | Aspiring Data Analyst
+
+GitHub: https://github.com/MBLuxe123
+
+# Internship
+
+**Programme:** DecodeLabs Data Analytics Internship
+
+**Domain:** Data Analytics
+
+## Repository
+
+More projects from my DecodeLabs Data Analytics Internship are available in this repository:
+
+https://github.com/MBLuxe123/DecodeLabs-Internship
+
+Thank you for visiting my portfolio. This repository documents my practical development in data preparation, exploratory analysis, SQL, visualization, and evidence-based interpretation.
