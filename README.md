@@ -119,6 +119,7 @@ The projects demonstrate a progressive data analytics workflow:
 
 ## Repository Structure
 
+```text
 DecodeLabs-Internship/
 │
 ├── Project 1/
